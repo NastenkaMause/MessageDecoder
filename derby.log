@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 27 22:38:43 EET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0159-4201-abee-000002e34030 
+on database directory C:\Epam_JAVA\DecoderDb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/MessageDecoder1-master/WebContent/WEB-INF/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\MessageDecoder1-master
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
